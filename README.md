@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Ramon de Souza Conceição 👨‍🚀**. Currently I'm a Front-end Developer on R4YOU.
+**I'm Ramon de Souza Conceição. Currently I'm a Front-end Developer on R4YOU.
 I also have experience with web development.
 
 Currently I'm working with **NextJS** to make Web applications
